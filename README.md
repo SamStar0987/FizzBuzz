@@ -9,7 +9,6 @@ A simple web-based implementation of the classic FizzBuzz game. Enter a number t
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 ## Overview 📝
@@ -58,23 +57,13 @@ FizzBuzz is a popular programming challenge for beginners. This project provides
 - Input: `10` -> Output: "Buzz"
 - Input: `7` -> Output: "NaN"
 
-## Screenshots 📷
-
-### Initial View:
-![Initial View](#)
-
-### Result Example:
-![Result Example](#)
-
-*(Replace the `#` in image paths with actual file paths or links to screenshots)*
-
 ## License 📜
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you like.
+This project is licensed under the MIT License. Please feel free to use, modify, and distribute it whenever you'd like.
 
 ---
 
 ### Contributing 🤝
 
-Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
+Contributions are welcome! Please fork the repository and submit a pull request if you want to contribute.
 
